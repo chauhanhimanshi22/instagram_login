@@ -1,0 +1,107 @@
+.insta{
+border: solid black 1px;
+text-align: center;
+margin: auto;
+height: 55%;
+width: 25%;
+align-items: center;
+}
+
+   button {
+    width: 90%;
+    background-color: hwb(207 47% 4%);
+    color: white;
+    cursor: pointer;
+    padding: 3% 4%;
+    margin: 10% auto;
+    border-radius: 0.6em;
+    border: none;
+  }
+  #username{
+    margin: 2% ;
+    width: 85%;
+    padding: 3% 1%
+  }
+  #password{
+margin: 1%;
+width: 85%;
+padding: 3% 1%;
+  }
+  .new{
+    width: 35%;
+    /* text-align: center; */
+    display: inline-block;
+  }
+  .nextNew{
+    width: 35%;
+    display: inline-block;
+    
+  }
+  .form{
+    display: inline-block;
+    text-decoration: none;
+  }
+  .account{
+    text-decoration: none;
+
+  }
+  .facebook_2{
+    border: solid black 1px;
+    width: 35%;
+    margin: 1%;
+    padding: 3%;
+    
+
+  }
+  .account_2{
+    width: 25%;
+    padding: 1.5% 0%;
+    margin: 1% auto;
+    text-align: center;
+    border: 1px solid black;
+  }
+  .photo_div{
+    width: 50%;
+    margin: 1% auto;
+    text-align: center;
+  }
+   .facebook{
+     width: 40%;
+     padding: 1%;
+     margin: 1% ;
+     text-align: center;
+  } 
+  .square_1{
+    width: 35%;
+    padding: 1%;
+  }
+  .Get{
+    width: 50%;
+    margin: 1% auto;
+  }
+  .Get p{
+    text-align: center;
+    margin: auto;
+  }
+
+  .sing_in{
+    text-decoration: none;
+  }
+  .Login_2{
+    text-decoration: none;
+  }
+  .microsoft{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+.microsoft a{
+  text-decoration: none;
+}
+.microsoft p{
+  padding: 1%;
+  margin: 1%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
